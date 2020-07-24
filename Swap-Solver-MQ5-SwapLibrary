@@ -1,0 +1,34 @@
+//+------------------------------------------------------------------+
+//|                                                   SwapSolver.mq5 |
+//|                               Copyright 2020, Renegade Biz Corp. |
+//|                                     https://twitter.com/FGDance_ |
+//|                        Updated - 07/24/2020 by Alana Breathcooler|
+//+------------------------------------------------------------------+
+#property copyright "Copyright 2020, Renegade Biz Corp."
+#property link      "https://twitter.com/FGDance_"
+#property version   "1.00"
+//+------------------------------------------------------------------+
+//| Script program start function                                    |
+//+------------------------------------------------------------------+
+void OnStart()
+  {
+//---
+ Print ("Swap Solver");
+ Print("====================================");
+double swapRate=0;
+string asymbol="USD_JPY";
+
+swapRate=SymbolInfoDouble(_Symbol,SYMBOL_SWAP_LONG); 
+Print(   swapRate );
+Print("====================================");
+
+
+
+//Print("==== Calculate Swap =================");
+asymbol="EUR_USD";
+Print(asymbol +", " +   swapRate );
+swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_LONG); 
+
+   
+  }
+//+------------------------------------------------------------------+
