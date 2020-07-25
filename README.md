@@ -1,4 +1,3 @@
-# public
 https://github.com/mt5g/public
 this 
 
@@ -9,7 +8,6 @@ https://mastodon.online/web/statuses/104551921934380849
 MT5 - Mastodon
 
 
-
-## Recruiting - Economist with Experience in Banking, and Internet. https://twitter.com/FGDance_/media  ... Thank you, Dave Renegade.                                       
+Recruiting - Economist with Experience in Banking, and Internet. https://twitter.com/FGDance_/media  ... Thank you, Dave Renegade.                                       
 
 
