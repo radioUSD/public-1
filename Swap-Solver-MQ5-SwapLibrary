@@ -9,9 +9,7 @@
 #property copyright "Copyright 2020, Renegade Biz Corp."
 #property link      "https://twitter.com/FGDance_"
 #property version   "1.00"
-//+------------------------------------------------------------------+
-//| Script program start function                                    |
-//+------------------------------------------------------------------+
+
 void OnStart()
   {
 //---
@@ -38,3 +36,7 @@ swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_LONG);
 // Renegade Docs:
 // Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Courtney, Dr. Venus.
 // Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
+
+//+------------------------------------------------------------------+
+//| End of Script                                                    |
+//+------------------------------------------------------------------+
