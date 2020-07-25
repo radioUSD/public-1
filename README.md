@@ -8,6 +8,6 @@ https://mastodon.online/web/statuses/104551921934380849
 MT5 - Mastodon
 
 
-Recruiting - Economist with Experience in Banking, and Internet. https://twitter.com/FGDance_/media  ... Thank you, Dave Renegade.                                       
+Recruiting - Economist with International Banking Experience, Contact: https://twitter.com/FGDance_/media  ... Thank you, Dave Renegade.                                       
 
 
