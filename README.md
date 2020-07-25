@@ -10,6 +10,6 @@ MT5 - Mastodon
 
 
 
-# Thank you, Dave Renegade.                                        |
+## Recruiting - Economist with Experience in Banking, and Internet.  -- Thank you, Dave Renegade.                                       
 
 
