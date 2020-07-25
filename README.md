@@ -10,6 +10,6 @@ MT5 - Mastodon
 
 
 
-## Recruiting - Economist with Experience in Banking, and Internet. https://twitter.com/FGDance_ ... Thank you, Dave Renegade.                                       
+## Recruiting - Economist with Experience in Banking, and Internet. https://twitter.com/FGDance  ... Thank you, Dave Renegade.                                       
 
 
