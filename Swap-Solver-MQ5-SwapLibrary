@@ -18,7 +18,7 @@ void OnStart()
 double swapRate=0;
 string asymbol="USD_JPY";
 
-swapRate=SymbolInfoDouble(_Symbol,SYMBOL_SWAP_LONG); 
+swapRate=SymbolInfoDouble(_Symbol,SYMBOL_SWAP_SHORT); 
 Print(   swapRate );
 Print("====================================");
 
@@ -26,8 +26,15 @@ Print("====================================");
 
 //Print("==== Calculate Swap =================");
 asymbol="EUR_USD";
-Print(asymbol +", " +   swapRate );
-swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_LONG); 
+
+swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_SHORT); Print(asymbol +", " +   swapRate ); 
+
+
+//Print("==== Calculate Swap =================");
+asymbol="USD_JPY";
+
+swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_SHORT); Print(asymbol +", " +   swapRate ); 
+
 
    
   }
