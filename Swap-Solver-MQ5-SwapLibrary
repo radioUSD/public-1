@@ -43,7 +43,9 @@ swapRate=SymbolInfoDouble(asymbol,SYMBOL_SWAP_SHORT); Print(asymbol +", " +   sw
 // Renegade Docs:
 // Contributing Pioneers: Dr. Floyd,  Dr. Galbreath, Dr. Courtney, Dr. Venus.
 // Corporate: Renegade Biz Corp., Imaging Partners, Landing Gear & Guidance.
-
+// Do you have a Music Room in your home?  If so Post a photo.
+// What instruments do you play?
+// 
 //+------------------------------------------------------------------+
 //| End of Script                                                    |
 //+------------------------------------------------------------------+
